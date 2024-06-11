@@ -1,8 +1,8 @@
 # Gallery
 
 ## TODO
-- [ ] Deploy
-- [ ] Scaffold basic ui with mock data
+- [x] Deploy
+- [x] Scaffold basic ui with mock data
 - [ ] Set up database
 - [ ] Attach database to UI
 - [ ] Add Auth
